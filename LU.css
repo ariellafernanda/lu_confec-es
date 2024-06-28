@@ -1,11 +1,22 @@
 img{
-border: black 5px solid;
+display: inline;    
+border:  black solid;
 height: 500px;
 width: 500px;
+box-shadow: 5px 10px 18px;
 border-radius: 30px;
+
+
 }
+img:hover{
+    box-shadow: 2px 10px 18px sandybrown;
+
+}
+
+
 P{
         color: rgb(80, 43, 95);
+        
     }
 
 h1{
@@ -14,4 +25,5 @@ h1{
 }
 div{
     text-align: center;
+    font-size:
 }
