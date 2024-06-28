@@ -1,7 +1,17 @@
-div{
-border-top: black 50px;
-width: 100px;
-height: 100px; 
+img{
+border: black 5px solid;
+height: 500px;
+width: 500px;
+border-radius: 30px;
+}
+P{
+        color: rgb(80, 43, 95);
+    }
 
-    
+h1{
+
+        color: wheat;
+}
+div{
+    text-align: center;
 }
