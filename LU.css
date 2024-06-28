@@ -1,6 +1,13 @@
-img{
-    border-top: rgb(25, 212, 50) 50px;
-    width: 300px;
+img{   
+    border: rgb(2, 50, 105) 5px solid;
+    height: 500px;
+    width: 500px;
+    border-radius: 30px; 
+} 
 
+div{
+    text-align: center;
+    
+} 
 
-}
+   
