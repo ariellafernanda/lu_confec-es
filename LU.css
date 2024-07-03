@@ -7,3 +7,7 @@ div{
     text-align: center;
 }
 
+img:hover{
+box-shadow: 2px 10px 18px rgb(141, 163, 168)
+
+}
