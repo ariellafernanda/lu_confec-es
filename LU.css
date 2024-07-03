@@ -1,6 +1,6 @@
 img{
 display: inline;    
-border:  black solid;
+border: rgba(2, 50, 105) 5px solid;
 height: 500px;
 width: 500px;
 box-shadow: 5px 10px 18px;
@@ -9,19 +9,19 @@ border-radius: 30px;
 
 }
 img:hover{
-    box-shadow: 2px 10px 18px sandybrown;
+    box-shadow: 2px 10px 18px rgb(0, 174, 255);
 
 }
 
 
 P{
-        color: rgb(80, 43, 95);
+        color: rgb(0, 0, 0);
         
     }
 
 h1{
 
-        color: wheat;
+        color: rgb(0, 0, 0);
 }
 div{
     text-align: center;
