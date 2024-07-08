@@ -1,0 +1,48 @@
+img{
+display: inline;    
+border: rgba(2, 50, 105) 5px solid;
+height: 700px;
+width: 700px;
+box-shadow: 5px 10px 18px;
+border-radius: 30px;
+
+
+}
+img:hover{
+    box-shadow: 2px 10px 18px rgb(0, 174, 255);
+
+}
+
+
+P{
+        color: rgb(0, 0, 0);
+        
+    }
+
+h1{
+
+        color: rgb(0, 0, 0);
+}
+div{
+    text-align: center;
+    font-size:
+}
+.d-block{
+    height: 500px;
+    width: 500px;
+    box-shadow: 5px 10px 18px;
+    border-radius: 30px;
+}
+body{
+
+    background-color: rgb(206, 213, 223);
+}
+.nav{
+    color: black;
+ }
+.navbar-brand{
+color: aliceblue;
+}
+.nav-link{
+    color: aliceblue;
+}
