@@ -23,3 +23,12 @@ body{
     
     background-color:rgb(206, 213, 223);
 }
+.nav{
+    color: black;
+}
+.navbar-brand{
+    color: aliceblue;
+}
+.nav-link{
+    color: aliceblue;
+}
