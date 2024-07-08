@@ -1,0 +1,30 @@
+img{   
+    border: rgb(2, 50, 105) 5px solid;
+    height: 700px;
+    width: 700px;
+    border-radius: 30px; 
+} 
+
+div{
+    text-align: center;
+    
+} 
+
+img:hover{
+    box-shadow: 2px 10px 18px rgb(1, 196, 255);
+
+}
+
+body{
+    background-color: rgb(206, 213, 223);
+}
+.nav{
+    color: black;
+ }
+.navbar-brand{
+color: aliceblue;
+}
+.nav-link{
+    color: aliceblue;
+}
+   
